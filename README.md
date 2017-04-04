@@ -2,7 +2,7 @@
 
 I'm a former professional violinist and keen writer who is learning to code at Makers Academy.  As a violinist, I performed and recorded throughout Europe and North America as well as in China and South America with some of the world's greatest orchestras and conductors.  I've always been fascinated with logic and organisation and decided to learn to code in order to satisfy my need for both creativity and order.
 
-I'm looking for a junior developer role in a scientific organisation where I can continue to learn every day, be exposed to new ways of thinking, and learn about current scientific trends.  I am especially interested in neurology and mind-body connection and astronomy/space exploration.
+I'm looking for a junior developer role in a scientific organisation where I can continue to learn every day, be exposed to new ways of thinking, and learn about current scientific trends.  
 
 ## Skills
 
@@ -15,9 +15,21 @@ In order to become a professional violinist at the highest international level, 
 - While working as a freelance musician in the UK, saved enough money to fund my Makers Academy course and living costs
 
 #### Intelligent approach to problem-solving
+Part of becoming a professional violinist is learning to practice effectively: that is, to understand and solve problems, whether it be a technical, performance anxiety issue, or anything else.  Some of the resources/methods I use can transform to coding:
+- [The Bulletproof Musician](http://www.bulletproofmusician.com/blog/), a blog dedicated to evidence-based methods of intelligent practice
+- Mental practice: being able to play a complicated 12-minute solo violin piece in my head has enabled me to 
+ * Understand both large and small-scale structures at the same time
+ * Improve focus
+- Pattern recognition: music, like code, is built on blocks of patterns.  I have been trained to spot and execute patterns at lightning speed (essentially, any piece of music put in front of me I should be able to play perfectly the second time around)
+- Understanding input/output: when looking at a piece of music, I have been trained to "hear" it in my head and so spot problems before I play it with my instrument; similarly, when coding I should be able to see the code and follow its logical consequences in my head before I run the program
 
 #### Wide range of interests[FIND BETTER WORD]
-
+One of the reasons I decided to become a programmer was that I could work in a wide variety of fields.  I read widely in many fields, including
+- Space exploration
+- Neurology
+- Mindfulness meditation
+- Behavioural science
+- History
 
 #### Writing
 
@@ -84,3 +96,9 @@ Performed, recorded and toured with the [Philharmonia Orchestra](www.philharmoni
 **Royal Liverpool Philharmonic Orchestra** (September 2012 - September 2013)
 *First Violin Section Member*
 Performed 2-3 concerts weekly as a tenured member of a renowned orchestra.
+
+## Hobbies
+- Cryptic crosswords
+- Scenic walks around Cambridge
+- Reading
+- Good coffee
