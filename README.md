@@ -1,10 +1,23 @@
 ## Paula Muldoon
 
-I'm a former professional violinist and keen writer who is learning to code at Makers Academy.  As a violinist, I performed and recorded throughout Europe, North America as well as in China and South America with some of the world's greatest orchestras and conductors.  I've always been fascinated with logic and organisation and decided to learn to code in order to satisfy my need for both creativity and order.
+I'm a former professional violinist and keen writer who is learning to code at Makers Academy.  As a violinist, I performed and recorded throughout Europe and North America as well as in China and South America with some of the world's greatest orchestras and conductors.  I've always been fascinated with logic and organisation and decided to learn to code in order to satisfy my need for both creativity and order.
 
 I'm looking for a junior developer role in a scientific organisation where I can continue to learn every day, be exposed to new ways of thinking, and learn about current scientific trends.  I am especially interested in neurology and mind-body connection and astronomy/space exploration.
 
 ## Skills
+
+#### Discipline
+In order to become a professional violinist at the highest international level, I have had to be tremendously disciplined.  Examples of this include:
+- 4 hours of violin practice daily during my undergrad - while also taking a full course load of academic studies
+- Summers devoted to music courses both in the USA and internationally
+- 3 hours of violin practice daily while in secondary school, including commuting four hours round-trip to violin lessons and music classes in Boston
+- While working as a freelance musician for a year after graduating, saved enough money to fund my Masters degree in London
+- While working as a freelance musician in the UK, saved enough money to fund my Makers Academy course and living costs
+
+#### Intelligent approach to problem-solving
+
+#### Wide range of interests[FIND BETTER WORD]
+
 
 #### Writing
 
