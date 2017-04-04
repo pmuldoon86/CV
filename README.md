@@ -14,6 +14,14 @@ I've always loved writing in various forms - blogs, fiction, translation, and pu
 - Finalist in a writing competition for a thoroughly researched novel set in Tudor England
 - Award-winning poetry translation (from Latin to English)
 
+#### Organisation
+One of my previous jobs was as operations manager for a musical ensemble, with complicated logistical scenarios involving pulling musicians from several European countries to a London rehearsal, arranging transportation for valuable and fragile (and sometimes bulky!) musical instruments, and then sending the musicians off on tour while coordinating with the local staff to ensure they were properly met at the airport, that the venue was adequately prepared, and that they were returned to the airport on time (generally for several different flights) - all of which was on a shoestring budget.  Skills learned include:
+ - Navigating foreign timetables
+ - Keeping track of musicians' departure and destination cities (which could change quite frequently)
+ - Understanding airlines' policies regarding transportation of musical instruments
+    * After a colleague experience an issue regarding British Airways' musical instrument policy, I started a [petition](https://www.change.org/p/british-airways-ask-british-airways-to-support-musical-instruments-as-carry-on-items) on change.org which garnered over 6,000 signatures and was written up in [The Strad](http://www.thestrad.com/violinist-forced-to-carry-unprotected-instrument-on-lap-on-british-airways-flight/), the industry magazine and the [Daily Mail](http://www.dailymail.co.uk/travel/travel_news/article-3634929/British-Airways-passenger-says-couldn-t-bring-violin-case-board.html)
+- Helping with musicians' emotional well-being
+
 #### Multi-culturalism
 
 I am used to working abroad and also in the UK with people of many different nationalities.  I love experiencing new cultures and having a multi-cultural workplace.
