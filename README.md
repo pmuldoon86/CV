@@ -18,8 +18,8 @@ In order to become a professional violinist at the highest international level, 
 Part of becoming a professional violinist is learning to practice effectively: that is, to understand and solve problems, whether it be a technical, performance anxiety issue, or anything else.  Some of the resources/methods I use can transform to coding:
 - [The Bulletproof Musician](http://www.bulletproofmusician.com/blog/), a blog dedicated to evidence-based methods of intelligent practice
 - Mental practice: being able to play a complicated 12-minute solo violin piece in my head has enabled me to 
- * Understand both large and small-scale structures at the same time
- * Improve focus
+  * Understand both large and small-scale structures at the same time
+  * Improve focus
 - Pattern recognition: music, like code, is built on blocks of patterns.  I have been trained to spot and execute patterns at lightning speed (essentially, any piece of music put in front of me I should be able to play perfectly the second time around)
 - Understanding input/output: when looking at a piece of music, I have been trained to "hear" it in my head and so spot problems before I play it with my instrument; similarly, when coding I should be able to see the code and follow its logical consequences in my head before I run the program
 
