@@ -2,7 +2,7 @@
 
 I'm a former professional violinist and keen writer who is learning to code at Makers Academy.  As a violinist, I performed and recorded throughout Europe, North America as well as in China and South America with some of the world's greatest orchestras and conductors.  I've always been fascinated with logic and organisation and decided to learn to code in order to satisfy my need for both creativity and order.
 
-I'm looking for a junior developer role in a scientific organisation where I can continue to learn every day.
+I'm looking for a junior developer role in a scientific organisation where I can continue to learn every day, be exposed to new ways of thinking, and learn about current scientific trends.  I am especially interested in neurology and mind-body connection and astronomy/space exploration.
 
 ## Skills
 
