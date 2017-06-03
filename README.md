@@ -12,7 +12,7 @@ Behavioural Skills: XP, TDD, Agile
 For a complete list, see my [Github](https://github.com/pmuldoon86/).
 | Project   | Description | Technologies |
 |---        |---         |---           |
-
+|[Instagram|(https://github.com/pmuldoon86/instagram-challenge) | A weekend challenge to build an Instagram clone.  |Ruby/Rails, RSpec, Capybara, Postgres, Devise, Paperclip|
 |[Acebook](https://github.com/pmuldoon86/acebook)| Made by the whole team of 17 programmers from 5 countries working in 3 time zones during week 8 (Rails week) of the Makers Course.  I built much of the front end and also worked on building a polymorphic comment feature. | Ruby/Rails, RSpec, Capybara, Postgres |
 | [Chitter](https://github.com/pmuldoon86/chitter-challenge) | An Twitter clone made over a weekend after one month on the course. | Ruby, Sinatra, bcrypt, DataMapper, RSpec, Capybara, Postgres |
 
