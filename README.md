@@ -100,5 +100,5 @@ Performed 2-3 concerts weekly as a tenured member of a renowned orchestra.
 
 ## Hobbies
 - Scenic walks around Cambridge
-- Reading (Space exploration, neurology, mindfulness meditation, behavioural science, history)
+- Reading (space exploration, neurology, mindfulness meditation, behavioural science, history)
 - Good coffee
