@@ -1,5 +1,5 @@
 ## Paula Muldoon
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/paulamuldoon/) | [Blog](http://www.fiddlerscode.com/)|
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/paulamuldoon/) | [Blog](http://www.fiddlerscode.com/) |
 
 I submitted my application to [Makers Academy](http://www.makersacademy.com/) from the backstage of a concert hall in Munich before I'd written a single line of code.  I'd been fascinated by the developers' work at my startup and I knew I wanted a change from the life of a touring violinist.
 
