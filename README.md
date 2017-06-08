@@ -50,7 +50,7 @@ One of my previous jobs was as operations manager for a musical ensemble, with c
 - After a colleague experienced an issue regarding British Airways' musical instrument policy, I started a [petition](https://www.change.org/p/british-airways-ask-british-airways-to-support-musical-instruments-as-carry-on-items) on change.org asking BA to revise its violin carry-on policy.  The petition garnered over 6,000 signatures and was written up in [The Strad](http://www.thestrad.com/violinist-forced-to-carry-unprotected-instrument-on-lap-on-british-airways-flight/), the industry magazine, and the [Daily Mail](http://www.dailymail.co.uk/travel/travel_news/article-3634929/British-Airways-passenger-says-couldn-t-bring-violin-case-board.html)
 
 #### Community
-Being on a happy and engaged team is very important to me.  While at Makers, I organised weekly virtual social evenings.  I also presented a lunch 'n learn on Alexander technique and an evening workshop on form in classical music.
+Being on a happy and engaged team is very important to me.  While at Makers, I organised weekly virtual social evenings.  I also presented a lunch 'n learn on Alexander technique and an [evening workshop on form](http://www.fiddlerscode.com/blog/debugging-beethoven) in classical music.
 
 #### Multi-culturalism
 
