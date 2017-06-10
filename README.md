@@ -5,7 +5,7 @@ I submitted my application to [Makers Academy](http://www.makersacademy.com/) fr
 
 I fell in love with coding while I was preparing for my Makers interview.  I love the combination of order and creativity, writing DRY code and rendering it in a beautiful view.
 
-As a violinist, I performed and recorded throughout Europe, North and South America, and China with some of the world's greatest musicians.  I'm looking for a junior developer role in an organisation where I can continue to work at the highest possible standard.  
+As a violinist, I performed and recorded throughout Europe, North and South America, and China with some of the world's greatest musicians.  I'm looking for a junior developer front-end or full-stack role in an organisation where I can continue to work at the highest possible standard.  
 
 **Tech Skills:** Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript, jQuery, Jasmine, PostgreSQL
 
