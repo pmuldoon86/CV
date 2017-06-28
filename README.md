@@ -7,7 +7,7 @@ I fell in love with coding while I was preparing for my Makers interview.  I lov
 
 As a violinist, I performed and recorded throughout Europe, North and South America, and China with some of the world's greatest musicians.  I'm looking for a junior developer front-end or full-stack role in an organisation where I can continue to work at the highest possible standard.  
 
-**Tech Skills:** Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript, jQuery, Jasmine, PostgreSQL
+**Tech Skills:** Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript (ES6), React-Native, jQuery, Jasmine, PostgreSQL
 
 **Behavioural Skills:** XP, TDD, Agile, pair programming, whole-team projects, code reviews
 
@@ -18,10 +18,11 @@ For a complete list, see my [Github](https://github.com/pmuldoon86/).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+| [BeeAppy](https://github.com/SimonTanner/Beehave) | This was my final project at Makers Academy (still in progress as of 28/6/17). A full-stack bee-tracking iOS app with a [Rails backend API](https://github.com/pmuldoon86/beeAppy_api) which I built myself and deployed to [Heroku](https://bee-appy.herokuapp.com/bees) and a React-Native front-end.
 | [Gilded Rose](https://github.com/pmuldoon86/gilded-rose-ruby) | I spent two days on this classic kata, refactoring a hideous mess of nested if/else conditionals to use duck typing and inheritance. | Ruby, RSpec |
 | [Instagram](https://github.com/pmuldoon86/instagram-challeng) | A weekend challenge to build an Instagram clone.  I used Chrome DevTools to inspect and copy the styling from Instagram.  | Ruby/Rails, RSpec, Capybara, Postgres, Devise, Paperclip |
 |[Acebook](https://github.com/pmuldoon86/acebook)| Made by the whole team of 17 programmers from 5 countries working in 3 time zones during week 8 (Rails week) of the Makers Course.  I built much of the front end and also worked on building a polymorphic comment feature.  | Ruby, Sinatra, bcrypt, DataMapper, RSpec, Capybara, Postgres|
-| [Chitter](https://github.com/pmuldoon86/chitter-challenge) | An Twitter clone made over a weekend after one month on the course.  As Sinatra is less automated than Rails, I manually created all the user authentication features using bcrypt.  I used partials for the views and refactored the controller logic to separate files. | Ruby/Sinatra, RSpec, Capybara, bcrypt |
+| [Chitter](https://github.com/pmuldoon86/chitter-challenge) | An Twitter clone made over a weekend after one month on the Makers course.  As Sinatra is less automated than Rails, I manually created all the user authentication features using bcrypt.  I used partials for the views and refactored the controller logic to separate files. | Ruby/Sinatra, RSpec, Capybara, bcrypt |
 
 ## Skills
 
@@ -51,7 +52,7 @@ One of my previous jobs was as operations manager for a musical ensemble, with c
 - After a colleague experienced an issue regarding British Airways' musical instrument policy, I started a [petition](https://www.change.org/p/british-airways-ask-british-airways-to-support-musical-instruments-as-carry-on-items) on change.org asking BA to revise its violin carry-on policy.  The petition garnered over 6,000 signatures and was written up in [The Strad](http://www.thestrad.com/violinist-forced-to-carry-unprotected-instrument-on-lap-on-british-airways-flight/), the industry magazine, and the [Daily Mail](http://www.dailymail.co.uk/travel/travel_news/article-3634929/British-Airways-passenger-says-couldn-t-bring-violin-case-board.html)
 
 #### Community
-Being on a happy and engaged team is very important to me.  While at Makers, I organised weekly virtual social evenings.  I also presented a lunch 'n learn on Alexander technique and an [evening workshop on form](http://www.fiddlerscode.com/blog/debugging-beethoven) in classical music.
+Being on a happy and engaged team is very important to me.  While at Makers, I organised weekly virtual social evenings.  I also presented a lunch 'n learn on Alexander technique and an [evening workshop on form](http://www.fiddlerscode.com/blog/debugging-beethoven) in classical music and after the course I will be running a presentation for Makers students on performance anxiety in interviews.
 
 #### Multi-culturalism
 
