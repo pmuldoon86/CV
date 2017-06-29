@@ -27,19 +27,7 @@ For a complete list, see my [Github](https://github.com/pmuldoon86/).
 ## Skills
 
 #### Discipline
-In order to become a professional violinist at the highest international level, I have had to be tremendously disciplined.  Examples of this include:
-- 4 hours of violin practice daily during my undergrad - while also taking a full course load of academic studies
-- Summers devoted to music courses both in the USA and internationally
-- 3 hours of violin practice daily while in secondary school, including commuting four hours round-trip to violin lessons and music classes in Boston
-
-#### Creative problem-solving
-Part of becoming a professional violinist is learning to practice effectively: that is, to understand and solve problems.  Some of the resources/methods I use that can transfer to coding:
-- [The Bulletproof Musician](http://www.bulletproofmusician.com/blog/), a blog dedicated to evidence-based methods of intelligent practice
-- Mental practice: being able to play a complicated 12-minute solo violin piece in my head has enabled me to 
-  * Understand both large and small-scale structures at the same time
-  * Improve focus
-- Pattern recognition: music, like code, is built on blocks of patterns.  I have been trained to spot and execute patterns at lightning speed (essentially, any piece of music put in front of me I should be able to play perfectly the second time around)
-- Understanding input/output: when looking at a piece of music, I have been trained to "hear" it in my head and so spot problems before I play it with my instrument; similarly, when coding I am learning to follow the logical of code in my head before I run the program
+In order to become a professional violinist at the highest international level, I have had to be tremendously disciplined, practising 3-4 hours a day for over ten years.
 
 #### Writing
 
