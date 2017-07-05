@@ -7,7 +7,7 @@ I fell in love with coding while I was preparing for my Makers interview.  I lov
 
 As a violinist, I performed and recorded throughout Europe, North and South America, and China with some of the world's greatest musicians.  I'm looking for a junior developer front-end or full-stack role in an organisation where I can continue to work at the highest possible standard.  
 
-**Tech Skills:** Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript (ES6), React-Native, jQuery, Jasmine, PostgreSQL
+**Tech Skills:** Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript (including ES6), React-Native, jQuery, Jasmine, PostgreSQL
 
 **Behavioural Skills:** XP, TDD, Agile, pair programming, whole-team projects, code reviews
 
@@ -49,6 +49,9 @@ I love experiencing new cultures and having a multi-cultural workplace.
 - Proficient in Spanish
 - Worked in/visited 23 different countries
 - Have lived abroad for six years
+
+#### Programming Songs
+See my [Github repo](https://github.com/pmuldoon86/programming-songs) for the fun songs I've written about RSpec and databases!
 
 ## Education
 
