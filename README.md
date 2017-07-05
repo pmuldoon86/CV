@@ -29,6 +29,9 @@ For a complete list, see my [Github](https://github.com/pmuldoon86/).
 #### Discipline
 In order to become a professional violinist at the highest international level, I have had to be tremendously disciplined, practising 3-4 hours a day for over ten years.
 
+#### Creative problem-solving
+Part of becoming a professional violinist is learning to practice effectively: that is, to understand and solve problems in an efficient manner, with rigorous attention to detail.  
+
 #### Writing
 
 I've always loved writing.  Examples of my work include:
